@@ -4,12 +4,14 @@ This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is 
 ## FAQ
 TODO
 ## Table of contents
-TODO
+1. Getting Started
+2. 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTY4NDExOSwtMTM5NzY4MTg2MV19
+eyJoaXN0b3J5IjpbNzg0MzkxOTg3LDE1NDU2ODQxMTksLTEzOT
+c2ODE4NjFdfQ==
 -->
