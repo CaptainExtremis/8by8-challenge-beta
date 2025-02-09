@@ -6,16 +6,18 @@ Q: "What tech stack is used for the project?"
 A: This project used a NodeJS workflow along with Docker, Vercel, and Supabase.
 
 Q: Can anyone contribute?
-A: Yes! Please see our [Contributing](stackedit.io/)
+A: Yes! Please see our [Contributing](stackedit.io/bestpractices) guide on how to add to our project.
 ## Table of contents
 1. Getting Started
 2. How to Contribute
+3. Architecture
+4. Deployment
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTkxMzI5LDE1NDU2ODQxMTksLTEzOT
-c2ODE4NjFdfQ==
+eyJoaXN0b3J5IjpbLTM1MDc5ODYxMywxNTQ1Njg0MTE5LC0xMz
+k3NjgxODYxXX0=
 -->
