@@ -3,7 +3,10 @@ This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is 
 
 ## FAQ
 Q: "What tech stack is used for the project?"
-A: This project used a NodeJS workflow along with Docker, Vercel
+A: This project used a NodeJS workflow along with Docker, Vercel, and Supabase.
+
+Q: Can anyone contribute?
+A: Yes! Please see our [Contributing](stackedit.io/)
 ## Table of contents
 1. Getting Started
 2. How to Contribute
@@ -13,6 +16,6 @@ A: This project used a NodeJS workflow along with Docker, Vercel
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzI1NTY4NywxNTQ1Njg0MTE5LC0xMz
-k3NjgxODYxXX0=
+eyJoaXN0b3J5IjpbLTMxMTkxMzI5LDE1NDU2ODQxMTksLTEzOT
+c2ODE4NjFdfQ==
 -->
