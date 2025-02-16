@@ -18,12 +18,14 @@ This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is 
 	b. Supabase
 5. Further questions
 
+*Get people familiar with the project
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTM4NTgzOCwxNzIyNDgzOTY2LDE4Mz
-gxNDk0MDUsLTMzNTU2NjkzMCwyMDI1MDc0NDg4LC0zNTA3OTg2
-MTMsMTU0NTY4NDExOSwtMTM5NzY4MTg2MV19
+eyJoaXN0b3J5IjpbLTEzMzc1NjI5NzIsMTcyMjQ4Mzk2NiwxOD
+M4MTQ5NDA1LC0zMzU1NjY5MzAsMjAyNTA3NDQ4OCwtMzUwNzk4
+NjEzLDE1NDU2ODQxMTksLTEzOTc2ODE4NjFdfQ==
 -->
