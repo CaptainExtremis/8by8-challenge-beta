@@ -5,6 +5,7 @@ This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is 
 1. Getting Started
 	a. Tools you will need
 	b. Setting up the development environment
+	c. Interfacing with GitHub/using Git
 2. How to Contribute
 	a. Style guide
 	b. Best practices
@@ -12,6 +13,7 @@ This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is 
 3. Architecture
 	a. Basic overview
 	b. Classes/Functions you should know
+	c. Crash course on Git commands
 4. Deployment
 
 
@@ -19,6 +21,6 @@ This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTY2MDU4MywyMDI1MDc0NDg4LC0zNT
+eyJoaXN0b3J5IjpbLTMzNTU2NjkzMCwyMDI1MDc0NDg4LC0zNT
 A3OTg2MTMsMTU0NTY4NDExOSwtMTM5NzY4MTg2MV19
 -->
