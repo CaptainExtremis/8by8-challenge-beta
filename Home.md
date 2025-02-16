@@ -9,19 +9,19 @@ This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is 
 2. How to Contribute
 	a. Style guide
 	b. Best practices
-	c. 
 3. Architecture
 	a. Basic overview
 	b. Classes/Functions you should know
 	c. Crash course on Git commands
 4. Deployment
+5. Further questions
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODE0OTQwNSwtMzM1NTY2OTMwLDIwMj
-UwNzQ0ODgsLTM1MDc5ODYxMywxNTQ1Njg0MTE5LC0xMzk3Njgx
-ODYxXX0=
+eyJoaXN0b3J5IjpbMTkyMjE4MDEyNCwxODM4MTQ5NDA1LC0zMz
+U1NjY5MzAsMjAyNTA3NDQ4OCwtMzUwNzk4NjEzLDE1NDU2ODQx
+MTksLTEzOTc2ODE4NjFdfQ==
 -->
