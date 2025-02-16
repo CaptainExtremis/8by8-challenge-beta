@@ -1,5 +1,6 @@
 # Welcome!
 This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is meant to increase voter participation across the USA by inviting friends to register to vote to gain access to a special badge for the challenge as well as tangible rewards.
+## TBW
 
 ## Table of Contents
 1. Getting Started
@@ -25,7 +26,8 @@ This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc1NjI5NzIsMTcyMjQ4Mzk2NiwxOD
-M4MTQ5NDA1LC0zMzU1NjY5MzAsMjAyNTA3NDQ4OCwtMzUwNzk4
-NjEzLDE1NDU2ODQxMTksLTEzOTc2ODE4NjFdfQ==
+eyJoaXN0b3J5IjpbMTIxNTEyMjk3NSwtMTMzNzU2Mjk3MiwxNz
+IyNDgzOTY2LDE4MzgxNDk0MDUsLTMzNTU2NjkzMCwyMDI1MDc0
+NDg4LC0zNTA3OTg2MTMsMTU0NTY4NDExOSwtMTM5NzY4MTg2MV
+19
 -->
