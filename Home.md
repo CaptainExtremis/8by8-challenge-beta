@@ -14,6 +14,8 @@ This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is 
 	b. Classes/Functions you should know
 	c. Crash course on Git commands
 4. Deployment
+	a. Vercel
+	b. Supabase
 5. Further questions
 
 
@@ -21,7 +23,7 @@ This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjE4MDEyNCwxODM4MTQ5NDA1LC0zMz
+eyJoaXN0b3J5IjpbMTcyMjQ4Mzk2NiwxODM4MTQ5NDA1LC0zMz
 U1NjY5MzAsMjAyNTA3NDQ4OCwtMzUwNzk4NjEzLDE1NDU2ODQx
 MTksLTEzOTc2ODE4NjFdfQ==
 -->
