@@ -3,7 +3,11 @@ This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is 
 
 ## Table of contents
 1. Getting Started
+	a. Tool you will need
+	b. Setting up the development environment
 2. How to Contribute
+	a. Style Guide
+	b. Best practic 
 3. Architecture
 4. Deployment
 
@@ -12,6 +16,6 @@ This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTA3NDQ4OCwtMzUwNzk4NjEzLDE1ND
-U2ODQxMTksLTEzOTc2ODE4NjFdfQ==
+eyJoaXN0b3J5IjpbLTExNDcyMTUwOCwyMDI1MDc0NDg4LC0zNT
+A3OTg2MTMsMTU0NTY4NDExOSwtMTM5NzY4MTg2MV19
 -->
