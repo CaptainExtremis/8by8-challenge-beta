@@ -4,6 +4,8 @@
 8by8 is a nonprofit organization originally dedicated to spreading awareness for Asian-American hate, though we have now shifted more toward voter awareness and registration in an effort to reach more of the American public. This is the wiki, on the other hand, is meant to document the 8by8 Challenge. It is meant to increase voter participation across the USA by inviting friends to register to vote to gain access to a special badge for the challenge as well as tangible rewards.
 ## The purpose of this wiki
 This wiki is meant to be a high-level overview of the 8by8 Challenge, serving as an introductory guide to setting up and running the project in a local environment. In English, this is a crash-course on setting up and running the project locally so that you can contribute, if you want to.
+## What you should know
+This wiki and project assumes you are familiar with the basics of programming (
 
 ## Table of Contents
 1. Getting Started
@@ -29,8 +31,8 @@ This wiki is meant to be a high-level overview of the 8by8 Challenge, serving as
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjgxNjAxOSwxMjE1MTIyOTc1LC0xMz
-M3NTYyOTcyLDE3MjI0ODM5NjYsMTgzODE0OTQwNSwtMzM1NTY2
-OTMwLDIwMjUwNzQ0ODgsLTM1MDc5ODYxMywxNTQ1Njg0MTE5LC
-0xMzk3NjgxODYxXX0=
+eyJoaXN0b3J5IjpbLTk3OTQ1NzA2MywxMTg2ODE2MDE5LDEyMT
+UxMjI5NzUsLTEzMzc1NjI5NzIsMTcyMjQ4Mzk2NiwxODM4MTQ5
+NDA1LC0zMzU1NjY5MzAsMjAyNTA3NDQ4OCwtMzUwNzk4NjEzLD
+E1NDU2ODQxMTksLTEzOTc2ODE4NjFdfQ==
 -->
