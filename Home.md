@@ -1,6 +1,9 @@
-# Welcome!
+# Introduction
+
+## What is 8by8?
+## The purpose of this wiki
+This wiki is meant to be a high-level overview of the 8by8 Challenge, serving as an introductory guide to setting up and running the project in a local environme
 This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is meant to increase voter participation across the USA by inviting friends to register to vote to gain access to a special badge for the challenge as well as tangible rewards.
-## TBW
 
 ## Table of Contents
 1. Getting Started
@@ -26,8 +29,8 @@ This is the wiki page for the 8by8 Challenge, hosted by 8by8. This challenge is 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTEyMjk3NSwtMTMzNzU2Mjk3MiwxNz
-IyNDgzOTY2LDE4MzgxNDk0MDUsLTMzNTU2NjkzMCwyMDI1MDc0
-NDg4LC0zNTA3OTg2MTMsMTU0NTY4NDExOSwtMTM5NzY4MTg2MV
-19
+eyJoaXN0b3J5IjpbLTE2MTQ3OTA0MzgsMTIxNTEyMjk3NSwtMT
+MzNzU2Mjk3MiwxNzIyNDgzOTY2LDE4MzgxNDk0MDUsLTMzNTU2
+NjkzMCwyMDI1MDc0NDg4LC0zNTA3OTg2MTMsMTU0NTY4NDExOS
+wtMTM5NzY4MTg2MV19
 -->
