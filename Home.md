@@ -5,7 +5,7 @@
 ## The purpose of this wiki
 This wiki is meant to be a high-level overview of the 8by8 Challenge, serving as an introductory guide to setting up and running the project in a local environment. In English, this is a crash-course on setting up and running the project locally so that you can contribute, if you want to.
 ## What you should know
-This wiki will assume you are familiar with basic programming concepts (Algorithms, OOP, creating functions/classes, etc.). We will attempt to explain and clarify what
+This wiki will assume you are familiar with basic programming concepts (Algorithms, OOP, creating functions/classes, etc.). We will attempt to explain and clarify any proprietary terms or concepts used specifically in this project, however a basic level of programming knowledge is required in order to make the most of this wiki. You should also be familiar with "the modern web development stack," 
 
 ## Table of Contents
 1. Getting Started
@@ -31,8 +31,8 @@ This wiki will assume you are familiar with basic programming concepts (Algorith
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODkwOTg1NiwxMTg2ODE2MDE5LDEyMT
-UxMjI5NzUsLTEzMzc1NjI5NzIsMTcyMjQ4Mzk2NiwxODM4MTQ5
-NDA1LC0zMzU1NjY5MzAsMjAyNTA3NDQ4OCwtMzUwNzk4NjEzLD
-E1NDU2ODQxMTksLTEzOTc2ODE4NjFdfQ==
+eyJoaXN0b3J5IjpbLTE0ODUyNzUxNzIsMTE4NjgxNjAxOSwxMj
+E1MTIyOTc1LC0xMzM3NTYyOTcyLDE3MjI0ODM5NjYsMTgzODE0
+OTQwNSwtMzM1NTY2OTMwLDIwMjUwNzQ0ODgsLTM1MDc5ODYxMy
+wxNTQ1Njg0MTE5LC0xMzk3NjgxODYxXX0=
 -->
