@@ -1,38 +1,21 @@
+
 # Introduction
-
 ## What is 8by8?
-8by8 is a nonprofit organization originally dedicated to spreading awareness for Asian-American hate, though we have now shifted more toward voter awareness and registration in an effort to reach more of the American public. This is the wiki, on the other hand, is meant to document the 8by8 Challenge. It is meant to increase voter participation across the USA by inviting friends to register to vote to gain access to a special badge for the challenge as well as tangible rewards.
+8by8 is a non-profit organization dedicated to stopping hate against Asian American Pacific Islander (AAPI) communities through voter registration and turnout. Historically, Asian Americans have one of the lowest voter turnout rates in the country—if we are going to stop Asian hate, this needs to change.
+The 8by8 Challenge is a web application that raises awareness of these issues and facilitates civic participation by enabling users to take actions such as registering to vote or signing up for election reminders. Users are awarded one badge for each action they take, and can also earn badges from the actions of friends they have invited to take the challenge. When a user has collected 8 badges, they have won the challenge and will be entitled to a reward from one of our partners.
 ## The purpose of this wiki
-This wiki is meant to be a high-level overview of the 8by8 Challenge, serving as an introductory guide to setting up and running the project in a local environment. In English, this is a crash-course on setting up and running the project locally so that you can contribute, if you want to.
+This wiki is meant to be a high-level overview of the 8by8 Challenge, serving as an introductory guide to the project, how to set it up and run it locally, best practices for authoring its code, how it is deployed, and more. Simply put, this is a crash-course on the 8by8 Challenge application so that you can contribute, if you want to.
 ## What you should know
-This wiki will assume you are familiar with basic programming concepts (Algorithms, OOP, creating functions/classes, etc.). We will attempt to explain and clarify any proprietary terms or concepts used specifically in this project, however a basic level of programming knowledge is required in order to make the most of this wiki. You should also be familiar with "the modern web development stack," that being HTML/CSS, Javascript, and React, as this project uses [NextJS](https://nextjs.org/), which is a library that adds more functionality and features to React.
-
-## Table of Contents
-1. Getting Started
-	a. Tools you will need
-	b. Setting up the development environment
-	c. Setting up GitHub/using Git
-2. How to Contribute
-	a. Style guide
-	b. Best practices
-3. Architecture
-	a. Basic overview
-	b. Classes/Functions you should know
-	c. Crash course on Git commands
-4. Deployment
-	a. Vercel
-	b. Supabase
-5. Further questions
-
-*Get people familiar with the project
+This wiki will assume you are familiar with basic programming concepts. We will attempt to explain and clarify any proprietary terms or concepts used specifically in this project, however a basic level of programming knowledge is required in order to make the most of this wiki. You should also be familiar with HTML, CSS, Javascript, and React, as this project uses [NextJS](https://nextjs.org/), which is a library that adds more functionality and features to React.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU5Njg1MTQsMTE4NjgxNjAxOSwxMj
-E1MTIyOTc1LC0xMzM3NTYyOTcyLDE3MjI0ODM5NjYsMTgzODE0
-OTQwNSwtMzM1NTY2OTMwLDIwMjUwNzQ0ODgsLTM1MDc5ODYxMy
-wxNTQ1Njg0MTE5LC0xMzk3NjgxODYxXX0=
+eyJoaXN0b3J5IjpbMTQ2MTg5NDQwOCwtMjA4NTk2ODUxNCwxMT
+g2ODE2MDE5LDEyMTUxMjI5NzUsLTEzMzc1NjI5NzIsMTcyMjQ4
+Mzk2NiwxODM4MTQ5NDA1LC0zMzU1NjY5MzAsMjAyNTA3NDQ4OC
+wtMzUwNzk4NjEzLDE1NDU2ODQxMTksLTEzOTc2ODE4NjFdfQ==
+
 -->
