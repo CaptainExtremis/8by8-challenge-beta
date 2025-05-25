@@ -1,0 +1,50 @@
+WIKI
+Home
+	High-level explanation, context
+	API reference/Table of Contents
+	FAQ
+		Getting started
+			Setting up the development environment
+		Contributing <link=style guide>
+			Style guide
+			Best practices
+			Who to contact(?)
+			Further reading <link=TypeScript, NextJS, Docker, Supabase>
+				included in all sections as needed
+		Deployment
+			Vercel
+			Supabase
+			GitHub and Solenium
+		Testing
+		Architecture/Glossary/User guide
+			add diagrams
+		
+research GitHub actions
+
+TODO: Create outline of all pages in Markdown
+		Draft of Getting Started page
+		
+
+
+Tools you will need:
+1 Latest version of NextJS [link]
+2 A code editor (VSCode (recommended), ViM, Notepad++)
+3 Latest version of Docker [link]
+
+How to set up the development environment:
+*Applicable only to VSCode. ViM coming soon
+1 Download and install NextJS, then boot up VSCode
+2 Open a new terminal and enter the following command: npm install
+3 Once npm is done installing, you can enter the command "npm run dev" to start up the testing environment
+4 
+5 
+
+* Write TSDoc comments
+/**
+	Desc.
+**/
+
+* Document high-level things (purpose of project, deployment, style guide, contributing, etc.)
+* How components interact with each other
+
+*GitHub marketplace: github_wiki_action

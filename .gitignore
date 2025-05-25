@@ -42,6 +42,9 @@ next-env.d.ts
 .idea/
 *storybook.log
 
+# wiki
+steps.txt
+
 # python 
 /venv
 __pycache__
