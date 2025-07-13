@@ -4,7 +4,7 @@
 This section of the wiki aims to teach you how to set up your dev environment to run the 8by8 Challenge app locally. In this section, you will learn:
 1.  What text editor to use
 2.  What packages you need to download to make the project work
-3.  How to install the packages through git commands and run the project on your machine.
+3.  How to install the packages through terminal commands and run the project on your machine.
 
 ## Tools
 
