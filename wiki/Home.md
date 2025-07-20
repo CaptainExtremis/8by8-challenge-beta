@@ -1,5 +1,21 @@
 ﻿
 # Introduction
+## Table of Contents
+### Wiki Pages
+[Getting Started](wiki/Getting Started.md)
+Style Guide (TBA)
+Deployment (TBA)
+Testing (TBA)
+
+### Extrnal Links
+[NextJS](https://nextjs.org/)
+[Intro to Typescript (W3Schools](https://www.w3schools.com/typescript/typescript_intro.php)
+[Typescript Documentation](https://www.typescriptlang.org/docs/)
+[Docker](https://www.docker.com/)
+[Docker Docs](https://docs.docker.com/)
+[Vercel](https://vercel.com/)
+[Vercel Docs](https://vercel.com/docs)
+
 ## What is 8by8?
 
 8by8 is a non-profit organization dedicated to stopping hate against Asian American Pacific Islander (AAPI) communities through voter registration and turnout. Historically, Asian Americans have one of the lowest voter turnout rates in the country—if we are going to stop Asian hate, this needs to change.
@@ -13,13 +29,3 @@ This wiki is meant to be a high-level overview of the 8by8 Challenge, serving as
 ## What you should know
 
 This wiki will assume you are familiar with basic programming concepts. We will attempt to explain and clarify any proprietary terms or concepts used specifically in this project, however a basic level of programming knowledge is required in order to make the most of this wiki. You should also be familiar with HTML, CSS, Javascript, and React, as this project uses [NextJS](https://nextjs.org/), which is a library that adds more functionality and features to React.
-
-### Links
-[Getting Started](wiki/Getting Started.md)
-[NextJS](https://nextjs.org/)
-[Intro to Typescript (W3Schools](https://www.w3schools.com/typescript/typescript_intro.php)
-[Typescript Documentation](https://www.typescriptlang.org/docs/)
-[Docker](https://www.docker.com/)
-[Docker Docs](https://docs.docker.com/)
-[Vercel](https://vercel.com/)
-[Vercel Docs](https://vercel.com/docs)
